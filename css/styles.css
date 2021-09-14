@@ -1,0 +1,39 @@
+body {
+  background-color: #99CC99;
+  font-family: 'Dekko';
+}
+
+
+hr {
+  border-style: none;
+  border-top-style:double;
+  border-color:#FFCCCC;
+  border-width: 15px;
+}
+h1{
+  color: #FFFFFF;
+  font:Tahoma,Helvetica,Arial,"\5b8b\4f53",sans-serif;
+  font-size: 60px
+
+}
+h2{
+  color: #FFFFFF;
+  font:Tahoma,Helvetica,Arial,"\5b8b\4f53",sans-serif;
+  font-size: 50px;
+}
+p{
+  color: #FFFFFF;
+  font-size: 35px;
+}
+li{
+  color: #FFFFFF;
+  font-size: 25px;
+}
+table{
+  color: #FFFFFF;
+  font-size: 25px;
+}
+form{
+  color: #FFFFFF;
+  font-size: 25px;
+}
